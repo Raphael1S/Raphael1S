@@ -2,7 +2,7 @@
 # Olá, sou o Raphael! 👋
 
 <!--  -->
-Sou estudante apaixonado por tecnologia. Meus interesses incluem desenvolvimento de PHP, PocketMine, Python e Lua.
+Sou um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvimento de PHP, PocketMine, Python e Lua.
 
 ## 💻 Projetos
 
@@ -29,5 +29,5 @@ Sou estudante apaixonado por tecnologia. Meus interesses incluem desenvolvimento
 ---
 
 ![snake animation](https://github.com/Raphael1S/Raphael1S/blob/output/github-contribution-grid-snake2.svg)
-
+![snake animation](https://github.com/<Raphael1S>/<Raphael1S>/blob/output/github-contribution-grid-snake2.svg)
 Made with ❤️ by Raphael
