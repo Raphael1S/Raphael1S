@@ -1,16 +1,31 @@
-### Hi there 👋
+<!--  -->
+# Olá, sou o Raphael! 👋
 
-<!--
-**Raphael1S/Raphael1S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--  -->
+Sou estudante apaixonado por tecnologia. Meus interesses incluem desenvolvimento de PHP, PocketMine, Python e Lua.
 
-Here are some ideas to get you started:
+## 💻 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Plugin Eventos Matemáticos](https://github.com/Raphael1S/Math-Event): Um plugin que cria eventos Matemáticos.
+- [Plugin Fix Localization](https://github.com/Raphael1S/Fix-Localization): Um plugin que corrige o problema de Localização.
+
+## 🔧 Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
+
+## 📫 Como me encontrar
+
+- [Discord - Raphael S. #2814](https://www.blazehosting.com.br/discord)
+- [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://www.blazehosting.com.br/discord)
+
+
+---
+
+Made with ❤️ by Raphael
