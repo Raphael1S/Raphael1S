@@ -28,4 +28,6 @@ Sou estudante apaixonado por tecnologia. Meus interesses incluem desenvolvimento
 
 ---
 
+![snake animation](https://github.com/<Raphael1S>/<Raphael1S>/blob/output/github-contribution-grid-snake2.svg)
+
 Made with ❤️ by Raphael
