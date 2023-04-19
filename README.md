@@ -2,7 +2,7 @@
 # Olá, sou o Raphael! 👋
 
 <!--  -->
-Sou um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvimento de PHP, PHAR, Python e Lua.
+Sou um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvimento em PHP, PHAR, Python e Lua.
 
 ## 💻 Projetos
 
