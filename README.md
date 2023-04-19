@@ -22,8 +22,8 @@ Sou um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvime
 
 ## 📫 Como me encontrar
 
-- [Discord - Raphael S. #2814](https://www.blazehosting.com.br/discord)
-- [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://www.blazehosting.com.br/discord)
+- [Raphael S. #2814](https://www.blazehosting.com.br/discord)
+[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://www.blazehosting.com.br/discord)
 
 
 ---
