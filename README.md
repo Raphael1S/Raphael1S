@@ -7,7 +7,8 @@ Sou um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvime
 ## 💻 Projetos
 
 - [Plugin Eventos Matemáticos](https://github.com/Raphael1S/Math-Event): Um plugin que cria eventos Matemáticos.
-- [Plugin Fix Localization](https://github.com/Raphael1S/Fix-Localization): Um plugin que corrige o problema de Localização.
+- [Plugin TpAll](https://github.com/Raphael1S/Tp-all): Um plugin que teletransporta todos os jogadores para a sua localização.
+- [Plugin Fix Localization](https://github.com/Raphael1S/Fix-Localization): Um plugin que corrige o problema de Localização Infinita.
 
 ## 🔧 Tecnologias e Ferramentas
 
