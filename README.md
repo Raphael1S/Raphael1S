@@ -7,6 +7,7 @@ Sou um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvime
 ## 💻 Projetos
 
 - [Plugin Eventos Matemáticos](https://github.com/Raphael1S/Math-Event): Um plugin que cria eventos Matemáticos.
+- [Plugin AutoClicker](https://github.com/Raphael1S/AutoClicker): Um plugin que hita mobs automaticamente.
 - [Plugin TpAll](https://github.com/Raphael1S/Tp-all): Um plugin que teletransporta todos os jogadores para a sua localização.
 - [Plugin Fix Localization](https://github.com/Raphael1S/Fix-Localization): Um plugin que corrige o problema de Localização Infinita.
 
@@ -26,7 +27,6 @@ Sou um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvime
 [Raphael S. #2814](https://www.blazehosting.com.br/discord)
 
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://www.blazehosting.com.br/discord)
-
 
 ---
 
