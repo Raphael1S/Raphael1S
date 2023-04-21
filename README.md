@@ -6,10 +6,10 @@ Sou um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvime
 
 ## 💻 Projetos
 
-- [Plugin Eventos Matemáticos](https://github.com/Raphael1S/Math-Event): Um plugin que cria eventos Matemáticos.
-- [Plugin AutoClicker](https://github.com/Raphael1S/AutoClicker): Um plugin que hita mobs automaticamente.
-- [Plugin TpAll](https://github.com/Raphael1S/Tp-all): Um plugin que teletransporta todos os jogadores para a sua localização.
-- [Plugin Fix Localization](https://github.com/Raphael1S/Fix-Localization): Um plugin que corrige o problema de Localização Infinita.
+- [Plugin MathEvent](https://github.com/Raphael1S/Math-Event): Um plugin PocketMine 3 que cria eventos Matemáticos.
+- [Plugin AutoClicker](https://github.com/Raphael1S/AutoClicker): Um plugin PocketMine 3 que hita mobs automaticamente.
+- [Plugin TpAll](https://github.com/Raphael1S/Tp-all): Um plugin PocketMine 3 que teletransporta todos os jogadores para a sua localização.
+- [Plugin Fix Localization](https://github.com/Raphael1S/Fix-Localization): Um plugin PocketMine 3 que corrige o problema de Localização Infinita.
 
 ## 🔧 Tecnologias e Ferramentas
 
