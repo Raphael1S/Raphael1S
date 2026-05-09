@@ -22,13 +22,3 @@ Um estudante apaixonado por tecnologia. Meus interesses incluem desenvolvimento 
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua)
-
-## 📫 Como me encontrar
-
-[Raphael S. #2814](https://www.blazehosting.com.br/discord)
-
-[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://www.blazehosting.com.br/discord)
-
----
-
-Made with ❤️ by Raphael
