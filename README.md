@@ -1,6 +1,6 @@
 # Olá, eu sou o Raphael 👋
 
-Sou estudante e desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento backend, automação e criação de plugins para servidores Minecraft.  
+Sou estudante e desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento backend, automação e criação de plugins.
 Tenho experiência com PHP, PHAR, Python, Lua e integração de sistemas, sempre buscando criar soluções eficientes, organizadas e escaláveis.
 
 ---
